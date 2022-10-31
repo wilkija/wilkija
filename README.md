@@ -26,7 +26,7 @@
 
  🔭 I’m currently working on a virtual personal training platform.
 
- 🌱 I’m currently learning React.js
+ 🌱 I’m currently learning Typescript
 
  👯 I’m looking to collaborate with other enthusiastic developers. 
 
@@ -48,11 +48,46 @@
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=GIT&color=23555f&style=plastic&logo=git"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman"/>
     <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=23555f&style=plastic&logo=heroku"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=NEXT.JS&color=23555f&style=plastic&logo=next.js"/>
+    <img height= '27px' src="https://img.shields.io/static/v1?label=|&message=VERCEL&color=23555f&style=plastic&logo=vercel"/>
 </p> 
   
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Personal Training Platform</h3>
+        <br />
+            <img src="media/gif5.gif" width="100%" alt="Personal Training Platform preview"/>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/wilkija/pt-platform-app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://just-in-time-fitness.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>Nextjs, React, Node, TailwindCSS, MongoDB</strong> - 
+          <br>Full stack application for managing a virtual personal training business.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">IMDb Film Archive</h3>
+        <br />
+            <img src="media/gif6.gif" width="100%" alt="IMDb Film Archive preview"/>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/wilkija/movie-autocomplete-search" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> - <strong>HTML, CSS, JS, MongoDB, Node, Bootstrap</strong> - 
+          <br>Autocomplete search indexing on a movie database containing 20K+ documents.</p>
+    </td>
+  </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Exercise Library</h3>
@@ -74,7 +109,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio Website</h3>
         <br />
-            <img src="media/gif2.gif" width="100%" alt="Exercise library webpage preview"/>
+            <img src="media/gif2.gif" width="100%" alt="Portfolio Website preview"/>
         <br />
         <p align="center">
           
@@ -94,7 +129,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Star Trek Alien Lookup</h3>
         <br />
-            <img src="media/gif3.gif" width="100%" alt="Exercise library webpage preview"/>
+            <img src="media/gif3.gif" width="100%" alt="Star Trek Alien Lookup app preview"/>
         <br />
         <p align="center">
           
@@ -111,7 +146,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Activity Tracker</h3>
         <br />
-            <img src="media/gif4.gif" width="100%" alt="Exercise library webpage preview"/>
+            <img src="media/gif4.gif" width="100%" alt="Activity Tracker App preview"/>
         <br />
         <p align="center">
           
